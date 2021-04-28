@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Workout Tracker",
+        "description": "Log your workouts and stay fit with this workout tracker utilizing a noSQL database.",
+        "github": "https://github.com/amarmann92/Fitness-Tracker",
+        "deploy": "",
+        "image": "./assets/images/workout.png",
+        "alt": "Workout chart"
+    },
+    {
+        "title": "Dayplanner",
+        "description": "Having trouble staying organized? This dayplanner, backed by localStorage just may be the key",
+        "github": "https://github.com/amarmann92/Day-Planner",
+        "deploy": "",
+        "image": "./assets/images/dayplanner.png",
+        "alt": "Scheduler"
+    },
+    {
+        "title": "Weather Dashboard",
+        "description": "Stay prepared with this interactive weather dashboard featuring the Open Weather API.",
+        "github": "https://github.com/amarmann92/weather-app",
+        "deploy": "",
+        "image": "./assets/images/weather.jpg",
+        "alt": "Cloudy weather"
+    },
+    {
+        "title": "Chef's Kiss",
+        "description": "Share and find recipes on Chef's Kiss. Cooking made social and simple.",
+        "github": "https://github.com/TylerWilliams97/Chefs-Kiss",
+        "deploy": "https://chefs-kiss.herokuapp.com/",
+        "image": "./assets/images/chefs.jpg",
+        "alt": "Hamburger"
+    }
+]
