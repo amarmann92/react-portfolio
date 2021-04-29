@@ -18,7 +18,7 @@ function Contact() {
         </li>
         <li className="contact list-group-item">
           <h5>
-            LinkedIn: <a href="#"></a>
+            LinkedIn:
           </h5>
         </li>
       </ul>
